@@ -17,6 +17,7 @@ const FundamentoUseState = () => {
     // <Array/>
     <Formulario/>
   )
+  
 }
 
 export default FundamentoUseState
